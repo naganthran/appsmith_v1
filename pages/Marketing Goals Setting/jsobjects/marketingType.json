@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "marketingType",
+    "pageId": "Marketing Goals Setting",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n    marketing_type: [\n    {\n        \"label\": \"EGT\",\n        \"value\": \"EGT\"\n    },\n    {\n        \"label\": \"RET\",\n        \"value\": \"RET\"\n    },\n    {\n        \"label\": \"MIX\",\n        \"value\": \"MIX\"\n    },\n    {\n        \"label\": \"PRO\",\n        \"value\": \"PRO\"\n    },\n    {\n        \"label\": \"ACQ\",\n        \"value\": \"ACQ\"\n    },\n    {\n        \"label\": \"RDT\",\n        \"value\": \"RDT\"\n    },\n    {\n        \"label\": \"BRA\",\n        \"value\": \"BRA\"\n    },\n    {\n        \"label\": \"NBR\",\n        \"value\": \"NBR\"\n    },\n    {\n        \"label\": \"EML\",\n        \"value\": \"EML\"\n    },\n    {\n        \"label\": \"REM\",\n        \"value\": \"REM\"\n    },\n    {\n        \"label\": \"Y\",\n        \"value\": \"Y\"\n    },\n    {\n        \"label\": \"COM\",\n        \"value\": \"COM\"\n    },\n    {\n        \"label\": \"YY\",\n        \"value\": \"YY\"\n    },\n    {\n        \"label\": \"YYY\",\n        \"value\": \"YYY\"\n    }\n\n    ]\n}",
+    "variables": [
+      {
+        "name": "marketing_type",
+        "value": "[{\n  \"label\": \"EGT\",\n  \"value\": \"EGT\"\n}, {\n  \"label\": \"RET\",\n  \"value\": \"RET\"\n}, {\n  \"label\": \"MIX\",\n  \"value\": \"MIX\"\n}, {\n  \"label\": \"PRO\",\n  \"value\": \"PRO\"\n}, {\n  \"label\": \"ACQ\",\n  \"value\": \"ACQ\"\n}, {\n  \"label\": \"RDT\",\n  \"value\": \"RDT\"\n}, {\n  \"label\": \"BRA\",\n  \"value\": \"BRA\"\n}, {\n  \"label\": \"NBR\",\n  \"value\": \"NBR\"\n}, {\n  \"label\": \"EML\",\n  \"value\": \"EML\"\n}, {\n  \"label\": \"REM\",\n  \"value\": \"REM\"\n}, {\n  \"label\": \"Y\",\n  \"value\": \"Y\"\n}, {\n  \"label\": \"COM\",\n  \"value\": \"COM\"\n}, {\n  \"label\": \"YY\",\n  \"value\": \"YY\"\n}, {\n  \"label\": \"YYY\",\n  \"value\": \"YYY\"\n}]"
+      }
+    ]
+  },
+  "id": "Marketing Goals Setting_marketingType",
+  "deleted": false,
+  "gitSyncId": "62ab95f845de0578f1dac8db_62ab95f845de0578f1dac8f9"
+}

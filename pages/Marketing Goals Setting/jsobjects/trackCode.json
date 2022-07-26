@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "trackCode",
+    "pageId": "Marketing Goals Setting",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n    track_code: [\n    {\n        \"label\": \"TTC\",\n        \"value\": \"TTC\"\n    },\n    {\n        \"label\": \"TTB\",\n        \"value\": \"TTB\"\n    },\n    {\n        \"label\": \"TTA\",\n        \"value\": \"TTA\"\n    }\n]\n}",
+    "variables": [
+      {
+        "name": "track_code",
+        "value": "[{\n  \"label\": \"TTC\",\n  \"value\": \"TTC\"\n}, {\n  \"label\": \"TTB\",\n  \"value\": \"TTB\"\n}, {\n  \"label\": \"TTA\",\n  \"value\": \"TTA\"\n}]"
+      }
+    ]
+  },
+  "id": "Marketing Goals Setting_trackCode",
+  "deleted": false,
+  "gitSyncId": "62ab95f845de0578f1dac8db_62ab980245de0578f1dac905"
+}

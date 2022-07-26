@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "brandingCode",
+    "pageId": "Marketing Goals Setting",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n    branding_code:[\n    {\n        \"label\": \"EPC\",\n        \"value\": \"EPC\"\n    },\n    {\n        \"label\": \"XBX\",\n        \"value\": \"XBX\"\n    },\n    {\n        \"label\": \"YYY\",\n        \"value\": \"YYY\"\n    },\n    {\n        \"label\": \"AGT\",\n        \"value\": \"AGT\"\n    },\n    {\n        \"label\": \"ASW\",\n        \"value\": \"ASW\"\n    },\n    {\n        \"label\": \"GAG\",\n        \"value\": \"GAG\"\n    },\n    {\n        \"label\": \"GME\",\n        \"value\": \"GME\"\n    },\n    {\n        \"label\": \"YY\",\n        \"value\": \"YY\"\n    },\n    {\n        \"label\": \"GPS\",\n        \"value\": \"GPS\"\n    },\n    {\n        \"label\": \"Y\",\n        \"value\": \"Y\"\n    },\n    {\n        \"label\": \"PST\",\n        \"value\": \"PST\"\n    },\n    {\n        \"label\": \"STA\",\n        \"value\": \"STA\"\n    },\n    {\n        \"label\": \"TCH\",\n        \"value\": \"TCH\"\n    }\n]\n\n}",
+    "variables": [
+      {
+        "name": "branding_code",
+        "value": "[{\n  \"label\": \"EPC\",\n  \"value\": \"EPC\"\n}, {\n  \"label\": \"XBX\",\n  \"value\": \"XBX\"\n}, {\n  \"label\": \"YYY\",\n  \"value\": \"YYY\"\n}, {\n  \"label\": \"AGT\",\n  \"value\": \"AGT\"\n}, {\n  \"label\": \"ASW\",\n  \"value\": \"ASW\"\n}, {\n  \"label\": \"GAG\",\n  \"value\": \"GAG\"\n}, {\n  \"label\": \"GME\",\n  \"value\": \"GME\"\n}, {\n  \"label\": \"YY\",\n  \"value\": \"YY\"\n}, {\n  \"label\": \"GPS\",\n  \"value\": \"GPS\"\n}, {\n  \"label\": \"Y\",\n  \"value\": \"Y\"\n}, {\n  \"label\": \"PST\",\n  \"value\": \"PST\"\n}, {\n  \"label\": \"STA\",\n  \"value\": \"STA\"\n}, {\n  \"label\": \"TCH\",\n  \"value\": \"TCH\"\n}]"
+      }
+    ]
+  },
+  "id": "Marketing Goals Setting_brandingCode",
+  "deleted": false,
+  "gitSyncId": "62ab95f845de0578f1dac8db_62ab983c45de0578f1dac90b"
+}

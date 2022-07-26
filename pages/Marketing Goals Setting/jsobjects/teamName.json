@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "teamName",
+    "pageId": "Marketing Goals Setting",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n    team_name: \n[\n    { \"label\": \"Agency (Y-Media)\",\n     \"value\": \"Agency (Y-Media)\"},\n\n    { \"label\": \"Agency (Stroom)\",\n     \"value\": \"Agency (Stroom)\"},\n\n    { \"label\": \"Agency (Re-Mind Phd)\",\n     \"value\": \"Agency (Re-Mind Phd)\"},\n\n    { \"label\": \"Agency (Once Upon A Time)\",\n     \"value\": \"Agency (Once Upon A Time)\"},\n\n    { \"label\": \"Agency (Mediascale)\",\n     \"value\": \"Agency (Mediascale)\"},\n\n    { \"label\": \"Agency (Liquid)\",\n     \"value\": \"Agency (Liquid)\"},\n\n    { \"label\": \"Agency (Frontier)\",\n     \"value\": \"Agency (Frontier)\"},\n     \n    { \"label\": \"2K Demand Generation (Console)\",\n     \"value\": \"2K Demand Generation (Console)\"}\n]\n}",
+    "variables": [
+      {
+        "name": "team_name",
+        "value": "[{\n  \"label\": \"Agency (Y-Media)\",\n  \"value\": \"Agency (Y-Media)\"\n}, {\n  \"label\": \"Agency (Stroom)\",\n  \"value\": \"Agency (Stroom)\"\n}, {\n  \"label\": \"Agency (Re-Mind Phd)\",\n  \"value\": \"Agency (Re-Mind Phd)\"\n}, {\n  \"label\": \"Agency (Once Upon A Time)\",\n  \"value\": \"Agency (Once Upon A Time)\"\n}, {\n  \"label\": \"Agency (Mediascale)\",\n  \"value\": \"Agency (Mediascale)\"\n}, {\n  \"label\": \"Agency (Liquid)\",\n  \"value\": \"Agency (Liquid)\"\n}, {\n  \"label\": \"Agency (Frontier)\",\n  \"value\": \"Agency (Frontier)\"\n}, {\n  \"label\": \"2K Demand Generation (Console)\",\n  \"value\": \"2K Demand Generation (Console)\"\n}]"
+      }
+    ]
+  },
+  "id": "Marketing Goals Setting_teamName",
+  "deleted": false,
+  "gitSyncId": "62ab95f845de0578f1dac8db_62ab9ac745de0578f1dac919"
+}
